@@ -1,5 +1,5 @@
 
-# Hey👋
+## Hey there👋
 🔭 I'm a passionate tech enthusiast<br>🌱 Currently learning Flutter<br>💬 Ask me about my Journey<br>⚡ What doesn't kill you, will make you stronger. And coding will definitely won't kill you.
 
 ## 💻 I Journeyed through:
